@@ -22,6 +22,9 @@ The dataset undergoes preprocessing and transformation using Power BI's ETL (Ext
 - Currency Normalization: Standardizing all monetary values to a consistent currency.
 - Data Wrangling: Preparing the dataset for analysis by transforming raw data into structured formats.
 This ensures the data is accurate, consistent, and ready for visualization and analysis.
+
+## Overview
+![India_Sales_Insight](sales_insight.png)
 ## Results
 The India Sales Insights Dashboard enables stakeholders to:
 
